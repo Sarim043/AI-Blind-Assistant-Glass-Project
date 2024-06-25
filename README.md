@@ -47,3 +47,4 @@ Converts text information into spoken words, providing auditory feedback to the 
 Plays audio signals to indicate various states and actions, enhancing user interaction.
 ### Keyboard: 
 Detects keypresses for additional control options, although primarily intended for use with voice commands.
+![Gemini_Generated_Image_panlwbpanlwbpanl](https://github.com/Sarim043/AI-Projects/assets/173757190/28bb2e1f-576b-4577-92f2-b30371d2ce69)
