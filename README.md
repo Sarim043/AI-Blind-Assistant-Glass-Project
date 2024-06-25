@@ -1,5 +1,5 @@
-# AI-Projects
-## Blind Assistant Glass Project 
+
+# Blind Assistant Glass Project 
 
 ## Aim:
 The primary aim of this project is to develop a pair of smart glasses equipped with advanced image processing and voice interaction capabilities to assist visually impaired individuals. These glasses are designed to provide real-time information about the user's surroundings, including object detection, text reading, and scene description, thereby enhancing their ability to navigate and interact with their environment independently.
